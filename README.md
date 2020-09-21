@@ -1,5 +1,5 @@
 ### Hello world
 
-- My interests include scientific and statistical computing, open science, and meta-research
-- Currently learning Julia and Singularity
+- My interests include scientific computing, open science, and meta-research
 - Currently working on [rmdfmt](https://www.gitlab.com/drkrynstrng/rmdfmt)
+- Currently learning Julia and Singularity
