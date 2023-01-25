@@ -1,4 +1,7 @@
 ### Hello world
 
-- My primary interests include scientific computing and open science
-- [@uschpc](https://github.com/uschpc) facilitating research on HPC clusters
+My interests include:
+
+- scientific and statistical computing
+- data management, analysis, and visualization
+- research software development
